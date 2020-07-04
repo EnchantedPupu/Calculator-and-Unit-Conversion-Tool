@@ -17,6 +17,7 @@ abstract class operate{
 }
 
 public class Calculation extends Calc{
+        private double x;
 	private double z;
 	private double result;
 	
